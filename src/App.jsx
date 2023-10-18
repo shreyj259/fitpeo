@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import SideBar from './components/SideBar'
 import Dashboard from './components/Dashboard'
-import './app.css'
+import './App.css'
 import { Box } from '@mui/material'
 
 const App = () => {
