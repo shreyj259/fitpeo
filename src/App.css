@@ -1,0 +1,21 @@
+body{
+  background-color: #F5F6F8;
+}
+
+.nav-search{
+  outline: none;
+  border: none;
+  width: 100%;
+}
+
+.card-img{
+  width: 100%;
+}
+
+.positive{
+  color: rgb(0, 248, 0);
+}
+
+.negative{
+  color: red;
+}
